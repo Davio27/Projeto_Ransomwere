@@ -74,12 +74,12 @@ Contribuições para melhorar este projeto são bem-vindas! Se você deseja cont
 
 ## Autor
 
-[Inclua seu nome e informações de contato, se desejar.]
+[Dávio Carvalho] - [@Davio27](https://github.com/Davio27)
 
 ## Licença
 
-[Escolha uma licença apropriada para o seu projeto e inclua-a aqui. Por exemplo, você pode optar pela licença MIT, GPLv3 ou outra, dependendo das suas preferências.]
+Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ## Agradecimentos
 
-[Agradecimentos a qualquer pessoa ou recurso que tenha contribuído para o projeto.]
+[Agradecemos a qualquer pessoa ou recurso que tenha contribuído para o projeto.]
