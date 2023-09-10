@@ -1,5 +1,3 @@
-Claro, vou criar uma descrição completa para o seu repositório no GitHub, com base nos códigos que você forneceu:
-
 # Projeto Ransoware
 
 **CryptoFile: Criptografia e Descriptografia de Arquivos**
